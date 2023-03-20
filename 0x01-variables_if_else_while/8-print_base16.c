@@ -1,4 +1,4 @@
-i#include <stdio.h>
+#include <stdio.h>
 
 /**
  * main - The starting of the program
